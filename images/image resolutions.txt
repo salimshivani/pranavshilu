@@ -1,0 +1,4 @@
+about me: 900x700
+blog: 674x397
+portfolio: 900x700
+slider: 1900x1276
